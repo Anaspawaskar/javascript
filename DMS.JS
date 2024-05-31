@@ -38,14 +38,68 @@
 // }
 
 
-let money = 5000
+// let money = 5000
 
-if (money >= 10000){
-    console.log("we can go to Goa");
-    money = 2000
+// if (money >= 10000){
+//     console.log("we can go to Goa");
+//     money = 2000
+// }
+// else if (money <=10000){
+//     console.log("i will save money");
+//     money = 60000
+// }
+// console.log(money);
+
+// let frnds = 2;
+
+// if (frnds ==4){
+//     console.log("we can play BGMI");
+
+// }
+// else {
+//     let frnd1 = "shubham";
+//     let frnd2 = "savita";
+// }
+// console.log(frnd1)
+
+// let frnds = 1;
+
+// if (frnds ==4){
+//     console.log("we can play BGMI");
+
+// }
+// else {
+//     var frnd1 = "shubham";
+//     var frnd2 = "savita";
+// }
+// console.log(frnd1)
+
+
+// let x = 50
+
+// var y = 80 
+
+// if (x){
+//     let x=60
+//     var y = 5000
+//     console.log(x);
+//     console.log(y);
+// }
+
+// console.log(x);
+// console.log(y);
+
+let x = 50
+
+var y = 80 
+
+if (x){
+    x =60
+    y = 5000
+    console.log(x);
+    console.log(y);
 }
-else if (money <=10000){
-    console.log("i will save money");
-    money = 60000
-}
-console.log(money);
+
+console.log(x);
+console.log(y);
+
