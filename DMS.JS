@@ -104,19 +104,28 @@
 // console.log(y);
 
 
-let x = 50
+// let x = 50
 
-var y = 80 
-let z = NaN
+// var y = 80 
+// let z = NaN
 
-if (z){
-    x =60
-    y = 5000
-    console.log(x);
-    console.log(y);
-}
+// if (z){
+//     x =60
+//     y = 5000
+//     console.log(x);
+//     console.log(y);
+// }
 
-console.log(x);
-console.log(y);
+// console.log(x);
+// console.log(y);
+
+// let a = 50
+// if (a% 2 ==0){
+// console.log("it is a even number");
+// }
+// else{console.log("it is a odd number");
+// }
+
+
 
 
