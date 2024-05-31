@@ -89,11 +89,27 @@
 // console.log(x);
 // console.log(y);
 
+// let x = 50
+
+// var y = 80 
+
+// if (x){
+//     x =60
+//     y = 5000
+//     console.log(x);
+//     console.log(y);
+// }
+
+// console.log(x);
+// console.log(y);
+
+
 let x = 50
 
 var y = 80 
+let z = NaN
 
-if (x){
+if (z){
     x =60
     y = 5000
     console.log(x);
@@ -102,4 +118,5 @@ if (x){
 
 console.log(x);
 console.log(y);
+
 
