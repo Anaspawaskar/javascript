@@ -17,4 +17,5 @@
 
 let a = 10 
 
-console.log(typeof undefined)
+console.log(typeof null)
+console.log(4+5+6+"3")
